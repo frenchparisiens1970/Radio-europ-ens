@@ -1,0 +1,33 @@
+SiiNunit
+{
+live_stream_def : .live_streams {
+ stream_data: 26
+ stream_data[0]: "0|Radio Française||||0"
+ stream_data[1]: "http://icecast.radiofrance.fr/franceinfo-midfi.mp3|France Info|News|FR|128|0"
+ stream_data[2]: "http://icecast.rtl.fr/rtl-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg|RTL|News|FR|128|0"
+ stream_data[3]: "http://audio.bfmtv.com/rmcradio_128.mp3|RMC France|News|FR|128|0"
+ stream_data[4]: "http://icecast.radiofrance.fr/franceinter-midfi.mp3|France - Inter|News|FR|128|0"
+ stream_data[5]: "http://europe1.lmn.fm/europe1.mp3|Europe 1|News|FR|128|0"
+ stream_data[6]: "http://cdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3?origine=fluxradios|NRJ - France|Adult Contemporary|FR|128|0"
+ stream_data[7]: "http://cdn.nrjaudio.fm/adwz1/fr/56718/mp3_128.mp3?origine=fluxradios&aw_0_1st.station=Nostalgie-Rock-80|Nostalgie Rock|Rock|FR|128|0"
+ stream_data[8]: "https://str3.openstream.co/1365?aw_0_1st.collectionid%3D6036%26stationId%3D6036%26publisherId%3D1389%26k%3D1731078497|PulsRadio Dance|Electronic|FR|192|0"
+ stream_data[9]: "http://cdn.nrjaudio.fm/adwz1/fr/30605/mp3_128.mp3?origine=fluxradios&aw_0_1st.station=Nostalgie-Best-of-80|Nostalgie Best of 80s|80s|FR|128|0"
+ stream_data[10]: "http://icecast.skyrock.net/s/natio_mp3_128k|Skyrock|Rock|FR|128|0"
+ stream_data[11]: "https://str1.openstream.co/589|ABC Lounge Radio|Jazz|FR|128|0"
+ stream_data[12]: "https://str3.openstream.co/2132?aw_0_1st.collectionid%3D6046%26stationId%3D6046%26publisherId%3D2156%26k%3D1731078917|PulsRadio 90|90s|FR|192|0"
+ stream_data[13]: "http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg|RTL 2|Adult|FR|128|0"
+ stream_data[14]: "http://icecast.radiofrance.fr/fip-midfi.mp3|FIP - France|Electronic|FR|128|0"
+ stream_data[15]: "https://audio.bfmtv.com/bfmradio_128.mp3?aw_0_1st.playerId=BFMRadio_audio_web&aggregator=BFMRadio_audio_web|BFM Radio (France)|Business|FR|128|0"
+ stream_data[16]: "https://listen.radioking.com/radio/421816/stream/475126|Slowly Radio|Easy Listening|FR|128|0"
+ stream_data[17]: "http://cdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3?origine=fluxradios|Rire et Chansons|Comedy|FR|128|0"
+ stream_data[18]: "https://das-edge18-sa18-dal02.cdnstream.com/b75154_128mp3|Smooth Jazz 24/7|Smooth Jazz|FR|128|0"
+ stream_data[19]: "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3|Jazz Radio.fr - Blues|Jazz|FR|128|0"
+ stream_data[20]: "http://icecast.radiofrance.fr/franceculture-midfi.mp3|France Culture|Débats|FR|128|0"
+ stream_data[21]: "http://cdn.nrjaudio.fm/adwz1/fr/30613/mp3_128.mp3?origine=fluxradios&aw_0_1st.station=Nostalgie-Best-of-1970|Nostalgie Best of 70s|70s|FR|128|0"
+ stream_data[22]: "https://str3.openstream.co/2119|Puls Radio - Trance|Trance|FR|192|0"
+ stream_data[23]: "http://audio.bfmtv.com/bfmbusiness_128.mp3|BFM Business|Business|FR|128|0"
+ stream_data[24]: "https://listen.radioking.com/radio/182263/stream/224140|Alternative Radio|Rock|FR|128|0"
+ stream_data[25]: "http://ice.creacast.com/sudradio|Sud Radio|News|FR|128|0"
+}
+
+}
